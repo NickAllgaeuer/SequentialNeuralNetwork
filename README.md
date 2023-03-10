@@ -1,4 +1,4 @@
-# Markdown file for Titanic Survival Prediction with Deep Learning
+# Titanic Survival Prediction with Deep Learning
 
 This project aims to predict the survival of passengers aboard the Titanic using a deep learning model. The dataset used for this project is the Titanic dataset, which contains passenger information such as age, sex, ticket fare, and whether or not the passenger survived.
 
